@@ -1,0 +1,60 @@
+*{
+	padding:0;
+    margin:0;
+}
+body{
+	text-align: center;
+}
+.images{
+	position:relative;
+	z-index:-1;
+}
+h2{
+	margin:0px auto;
+	font-family:Î¢ÈíÑÅºÚ;
+	color:#FFF;
+	font-size:30px;
+}
+.box{
+	padding-top:20px;
+	margin:50px auto;
+	width:485px;
+	height:550px;
+ 	background-color:#3A4563;
+ 	opacity:0.9;
+}
+input{
+	float:right;
+	height:40px;
+	width:300px;
+	color:#999;
+ 	border-radius:5px;
+ 	border:none;
+ 	text-align:center;
+}
+.bonnter1{
+	float:left;
+	margin-top:30px;
+	margin-left:93px; 
+}
+ .bonnter2{
+	float:left;
+ 	margin-top:10px;
+ 	margin-left:93px; 
+}
+.register_box{
+    width:300px;
+    height:40px;
+    float:left;
+ 	margin-top:20px;
+ 	margin-left:93px; 
+ 	border-style:none;
+ 	border-radius:5px;
+ 	color:#FFFFFF;
+ 	line-height:40px;
+ 	text-align:center;
+ 	font-family:'Î¢ÈíÑÅºÚ';
+ 	font-weight:bolder;
+ 	font-size:19px;
+    background-color:#667CDF;
+}
