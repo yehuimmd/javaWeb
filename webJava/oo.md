@@ -1,5 +1,5 @@
 ### 项目说明
-这是一个使用到Java及web前端相关技术的小项目，用到的技术有HTML、css、java、jsp，用到的开发工具是myeclipse
+这是一个使用到Java及web前端相关技术的小项目，用到的技术有HTML、css、java、jsp，用到的开发工具是myeclipse,数据库MySQL等。
 
 实现的功能
 
